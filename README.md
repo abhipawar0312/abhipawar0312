@@ -14,14 +14,6 @@ I'm a passionate Java backend developer focused on building efficient, scalable,
 - 🧰 **Databases:** MySQL, PostgreSQL
 - 📦 **Other:** REST APIs, JSON, Swagger, Lombok
 
----
-
-## 📈 My GitHub Stats
-
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhipawar0312&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhipawar0312&layout=compact&theme=radical)
-
----
 
 ## 🌐 Connect with Me
 
