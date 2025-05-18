@@ -18,7 +18,7 @@ I'm a passionate Java backend developer focused on building efficient, scalable,
 ## 🌐 Connect with Me
 
 - 🔗 Portfolio: [abhipawar0312.github.io/Abhi-s-web](https://abhipawar0312.github.io/Abhi-s-web)
-- 💼 LinkedIn: [linkedin.com/in/abhishek-pawar](https://www.linkedin.com/in/abhishek-pawar-95363421a)
+- 💼 LinkedIn: [linkedin.com/in/abhishek-pawar-95363421a](https://www.linkedin.com/in/abhishek-pawar-95363421a)
 - 📧 Email: [abhisheknpawar01@gmail.com](mailto:abhisheknpawar01@gmail.com)
 
 ---
